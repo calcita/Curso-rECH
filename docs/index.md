@@ -1,15 +1,15 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
+title: "R aplicado a la Encuesta Continua de Hogares"
+author: "Gabriela Mathieu & Richard Detomasi"
+date: "2019-10-03"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: calcita/Curso-rECH
+url: 'http\://calcita.github.io/Curso-rECH/'
+description: "Todo lo que necesitas para analizar la ECH."
 ---
 
 # Preface {-}
